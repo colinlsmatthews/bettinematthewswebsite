@@ -5,4 +5,4 @@ source "https://rubygems.org"
 # gem "rails"
 gem "jekyll"
 
-gem "github-pages", "~> 20"
+# gem "github-pages", "~> 20"
